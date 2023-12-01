@@ -5,7 +5,7 @@
 - https://www.youtube.com/watch?v=kUMe1FH4CHE
 	- deep dive 4 sata, isto super referenca za specificne teme ako ste propustili neko predavanje
 
-Ako trebate pojašnjenje oko nekog tutoriala, desni klik > "copy video URL at the current time" i ošaljite u WAPP grupu.
+Ako trebate pojašnjenje oko nekog tutoriala, desni klik > "copy video URL at the current time" i pošaljite u WAPP grupu.
 
 
 
@@ -17,4 +17,4 @@ Ako trebate pojašnjenje oko nekog tutoriala, desni klik > "copy video URL at th
 - https://youtu.be/qz0aGYrrlhU?t=577
   - nije baš prikladan jer koristi i CSS, možda bolje ako vam kasnije bude trebao podsjetnik kombinirano CSS i HTML
   - od 9:36, možete preskočiti uvod i alate
-  - dobro je da pogledate i "How the Web Works" i "Inspecting HTTP Rewquests and Responses" dijelove, nije obavezan za ispit
+  - dobro je da pogledate i "How the Web Works" i "Inspecting HTTP Requests and Responses" dijelove, nije obavezan za ispit
